@@ -1,0 +1,245 @@
+.home-page{
+height: 700px;
+background-color: #00000066;
+background-image: url("img_nfhome.jpeg");
+background-size: cover;
+}
+
+header{
+    height: 95px;
+}
+
+.navbar{
+    height: 90px;
+   padding-top: 10px;
+   display: flex;
+}
+
+.logo{
+    background-image: url("img_nflogo.png");
+    background-size: cover;
+    height: 85px;
+    width: 150px;
+    background-color: transparent;
+    margin-left: 40px;
+}
+
+.sign{
+    height: 32px;
+    width: 76px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-left: 750px;
+    margin-top: 18px;
+}
+
+h1{
+    color: #ffffff;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Helvetica, sans-serif;
+    margin-top: 125px;
+}
+
+h1{
+    text-align: center;
+}
+
+.watch{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.enter{
+    font-size: 1.25rem;
+    font-family: Helvetica, sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    text-align: center;
+}
+
+.email{
+    height: 56px;
+    width: 330px;
+    background-color: rgb(19, 19, 19);
+    color: white;
+    border: 0.2px solid white;
+    border-radius: 4px;
+    font-size: 1rem;
+    padding-left: 10px;
+}
+
+.button{
+    height: 59px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: Helvetica, sans-serif;
+    margin-left: 10px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+}
+
+.tv{
+    display: flex;
+    height: 410px;
+    background-color: black;
+    padding-top: 72px;
+    justify-content: center;
+    border-top-style: solid;
+    border-width: 8px;
+    border-color:rgb(43, 43, 43);
+    border-bottom-style: solid;
+ }
+
+
+h2{
+    height: 64px;
+    width: 460px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Helvetica, sans-serif;
+}
+
+.home-two{
+    color: white;
+    height: 96px;
+    width: 460px;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.home-one{
+    padding-left: 25px;
+}
+
+.tv-pic{
+    height: 347px;
+    width: 463px;
+    background-image: url("img_nftv.png");
+    background-size: cover;
+}
+
+.home-three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 490px;
+    background-color: black;
+    border-bottom-style: solid;
+    border-width: 8px;
+    border-color:rgb(43, 43, 43);
+}
+
+.kids{
+    height: 345px;
+    width: 463px;
+    background-image: url("img_kids.png");
+    background-size: cover;
+}
+
+.kids-h2{
+    height: 130px;
+    width: 460px;
+}
+
+.kids-p{
+    height: 96px;
+    width: 460px;
+    color: white;
+    font-size: 24px;
+}
+
+/** home four **/
+
+.home-four{
+    height: 410px;
+    background-color: black;
+    border-bottom-style: solid;
+    border-width: 8px;
+    border-color:rgb(43, 43, 43);
+    padding-top: 72px;
+}
+
+.blank{
+    height: 265px;
+    width: 417px;
+}
+
+.blank-h2{
+    height: 130px;
+    width: 411px;
+    margin-left: 200px;
+}
+
+.blank-p{
+    height: 96px;
+    width: 390px;
+    color: white;
+    font-size: 24px;
+    font-family: Helvetica, sans-serif;
+    margin-left: 200px;
+    line-height: 33px;
+}
+
+.question{
+    height: 920px;
+    background-color: black;
+    padding-top: 72px;
+}
+
+.question-h2{
+    height: 65px;
+    width: 100%;
+    font-size:48px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.button-q{
+    height: 85px;
+    width: 935px;
+    background-color: rgb(43, 43, 43);
+    margin-top: 25px;
+    margin-left: 130px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: none;
+}
+
+.button-span{
+    color: white;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.question-h3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    height: 30px;
+    width: 890px;
+    margin-left: 130px;
+}
